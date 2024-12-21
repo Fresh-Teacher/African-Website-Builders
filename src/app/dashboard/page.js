@@ -173,12 +173,11 @@ export default function Dashboard() {
             className="mb-8 flex items-center justify-between"
           >
             <div className="flex items-center">
-              <PersonCircle className="text-blue-600 h-8 w-8 mr-3" />
               <div>
                 <h1 className="text-3xl font-bold text-gray-900">
                   {greeting}, Tr. {getLastName(userData["Full Name"])}
                 </h1>
-                <p className="text-gray-600">Track your progress in the African Website Builders course</p>
+                <p className="text-gray-600">You are most welcome! ☺️</p>
               </div>
             </div>
             <button
