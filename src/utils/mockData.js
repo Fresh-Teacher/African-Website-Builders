@@ -14,17 +14,17 @@ export const registrationData = {
             "Can you attend physical classes if the training centre is around Kampala?": "Maybe",
             "courseProgress": {
                 "Introduction to Zylosite, Learn Website Sequence (Tour & Practice)": "Completed",
-                "Text, Button & Block Editing, Add Video": "Pending",
-                "Cogs, Grids, Components, Make Pages, Pop-Ups and Review": "Pending",
-                "Parallax, Padding, Slide Show, Forms": "Pending",
-                "Re-Create Site from Scratch (Redo Everything You Have Learned)" : "Pending",
-                "Chat GPT and Speed Test": "Pending",
-                "Recap Test and Practicals Continue": "Pending",
-                "Learn to Create Countdowns (Using Zylo Modules)": "Pending",
-                "Website SEO, Favicons & Social Media": "Pending",
-                "Learn to Teach: AWB Tutor Course (Compulsory)": "Pending",
-                "Become Freelance Ready (Sign Up to Attract Your First Clients \u00a3\u00a3\u00a3)": "Pending",
-                "Sales Online and Local": "Pending"
+                "Text, Button & Block Editing, Add Video": "Completed",
+                "Cogs, Grids, Components, Make Pages, Pop-Ups and Review": "Completed",
+                "Parallax, Padding, Slide Show, Forms": "Completed",
+                "Re-Create Site from Scratch (Redo Everything You Have Learned)" : "Completed",
+                "Chat GPT and Speed Test": "Completed",
+                "Recap Test and Practicals Continue": "Completed",
+                "Learn to Create Countdowns (Using Zylo Modules)": "Completed",
+                "Website SEO, Favicons & Social Media": "Completed",
+                "Learn to Teach: AWB Tutor Course (Compulsory)": "Completed",
+                "Become Freelance Ready (Sign Up to Attract Your First Clients \u00a3\u00a3\u00a3)": "Completed",
+                "Sales Online and Local": "Completed"
             }
         },
         {
