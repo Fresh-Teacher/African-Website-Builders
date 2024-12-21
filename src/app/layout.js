@@ -1,5 +1,6 @@
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import './globals.css';
+import { ThemeProvider } from '@/contexts/ThemeContext';
 
 export const metadata = {
   title: 'AWB - Login',
@@ -8,8 +9,12 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body>{children}</body>
+    <html lang="en" suppressHydrationWarning>
+      <body>
+        <ThemeProvider>
+          {children}
+        </ThemeProvider>
+      </body>
     </html>
   )
 }
